@@ -14,7 +14,7 @@ body {
 display:inline-block;
 }
 
-.container-hero{
+.container-fluid.herobg{ 
     background-color:#b5c5c2;
 }
 
